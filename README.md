@@ -80,11 +80,7 @@ application-form-frontend/
 - **Form Fields:** Update the form fields in `ApplicationForm.tsx` to match your specific requirements.
 - **Theme & Styling:** Customize the background, colors, and theme in `App.tsx` and Chakra UI settings.
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
   <p>Made with Creative using React, Vite, and Chakra UI.</p>
